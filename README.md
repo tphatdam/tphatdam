@@ -38,10 +38,10 @@ Developed full-stack web applications, backend services, and internal enterprise
 
 <p align="center">
   <a href="https://github.com/tphatdam">
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=damtuanphat&show_icons=true&theme=tokyonight&hide_border=true" alt="Dam Tuan Phat's GitHub statistics" />
+    <img height="165" src="https://github-readme-stats.vercel.app/api?username=tphatdam&show_icons=true&theme=tokyonight&hide_border=true" alt="Dam Tuan Phat's GitHub statistics" />
   </a>
   <a href="https://github.com/tphatdam">
-    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=damtuanphat&layout=compact&theme=tokyonight&hide_border=true" alt="Dam Tuan Phat's most-used languages" />
+    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tphatdam&layout=compact&theme=tokyonight&hide_border=true" alt="Dam Tuan Phat's most-used languages" />
   </a>
 </p>
 
